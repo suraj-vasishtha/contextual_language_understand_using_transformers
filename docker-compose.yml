@@ -1,0 +1,9 @@
+version: '3'
+services:
+  text-classifier:
+    build: .
+    ports:
+      - "8000:8000"  # API
+      - "8501:8501"  # Streamlit
+    volumes:
+      - ./model_checkpoints:/app/model_checkpoints 

@@ -1,0 +1,10 @@
+torch
+transformers
+pyyaml
+numpy
+scikit-learn
+nltk
+streamlit
+fastapi
+uvicorn
+requests
