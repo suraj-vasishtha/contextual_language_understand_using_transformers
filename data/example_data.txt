@@ -1,0 +1,14 @@
+Text: The food was amazing!
+Context: The restaurant just hired a new chef from a Michelin-starred restaurant.
+
+Text: I can't believe how bad the service was.
+Context: The restaurant was understaffed due to a local festival.
+
+Text: The movie was incredible!
+Context: The film won multiple awards at the international film festival.
+
+Text: The book was disappointing.
+Context: The author's previous works were all bestsellers.
+
+Text: The concert was mind-blowing!
+Context: The band played their greatest hits from the last decade. 
