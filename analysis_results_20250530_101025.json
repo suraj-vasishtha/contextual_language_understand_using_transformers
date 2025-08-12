@@ -1,0 +1,89 @@
+[
+  {
+    "example": {
+      "text": "I love this movie!",
+      "context": "The film received mixed reviews from critics."
+    },
+    "analysis": {
+      "text_analysis": {
+        "sentiment": {
+          "sentiment": "unknown",
+          "score": 0.0
+        },
+        "classification": {
+          "label": "unknown",
+          "score": 0.0,
+          "all_scores": {}
+        }
+      },
+      "context_analysis": {
+        "sentiment": {
+          "sentiment": "unknown",
+          "score": 0.0
+        }
+      },
+      "combined_analysis": {
+        "context_impact": 0.0
+      },
+      "visualizations": {}
+    }
+  },
+  {
+    "example": {
+      "text": "The service was terrible.",
+      "context": "The restaurant was packed and understaffed."
+    },
+    "analysis": {
+      "text_analysis": {
+        "sentiment": {
+          "sentiment": "unknown",
+          "score": 0.0
+        },
+        "classification": {
+          "label": "unknown",
+          "score": 0.0,
+          "all_scores": {}
+        }
+      },
+      "context_analysis": {
+        "sentiment": {
+          "sentiment": "unknown",
+          "score": 0.0
+        }
+      },
+      "combined_analysis": {
+        "context_impact": 0.0
+      },
+      "visualizations": {}
+    }
+  },
+  {
+    "example": {
+      "text": "This book is a masterpiece!",
+      "context": "The author won the Nobel Prize in Literature."
+    },
+    "analysis": {
+      "text_analysis": {
+        "sentiment": {
+          "sentiment": "unknown",
+          "score": 0.0
+        },
+        "classification": {
+          "label": "unknown",
+          "score": 0.0,
+          "all_scores": {}
+        }
+      },
+      "context_analysis": {
+        "sentiment": {
+          "sentiment": "unknown",
+          "score": 0.0
+        }
+      },
+      "combined_analysis": {
+        "context_impact": 0.0
+      },
+      "visualizations": {}
+    }
+  }
+]
